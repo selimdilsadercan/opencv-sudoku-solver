@@ -153,7 +153,7 @@ imgList = stackImages(0.6,[[img, imgCanny, imgContoured,sudokuFinal],[sudoku,sud
 cv.imshow("Pencere", imgList)
 cv.waitKey(0)
 
-#sakdnjnskd
+
 
 
 
